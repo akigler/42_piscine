@@ -1,7 +1,0 @@
-Credentials cache: API:54754
-        Principal: akigler@42.US.ORG
-
-  Issued                Expires               Principal
-Jul  8 21:27:16 2019  Jul  9 07:27:16 2019  krbtgt/42.US.ORG@42.US.ORG
-Jul  8 21:27:17 2019  Jul  9 07:27:16 2019  ldap/ldap-master.42.us.org@42.US.ORG
-Jul  8 21:35:42 2019  Jul  9 07:27:16 2019  host/vgs-fn1.42.us.org@42.US.ORG
