@@ -1,0 +1,1 @@
+#define ABS(value) ((value) < 0) ? (-1) * value : value
